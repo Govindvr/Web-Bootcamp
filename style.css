@@ -1,0 +1,17 @@
+#login{
+    width: 300px;
+    border: 5px solid red;
+    padding: 50px;
+    margin: 20px;
+    color: rebeccapurple;
+}
+h2{
+    text-align: center;
+    color: saddlebrown;
+}
+
+#button button{
+    background-color: rebeccapurple;
+    color: red;
+    align-items: center;
+}
